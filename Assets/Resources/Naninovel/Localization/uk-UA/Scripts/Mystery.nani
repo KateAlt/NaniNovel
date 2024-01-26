@@ -1,0 +1,14 @@
+; English <en> to Ukrainian (Ukraine) <uk-UA> localization document for `Mystery` naninovel script
+
+# e02299
+; Яло: Що завжди росте, але ніколи не цвіте?
+
+# 45079df1
+; @choice Радість goto:Answer_wrong
+
+# 84fecde7
+; @choice Час goto:Answer_right
+
+# edc7756c
+; @choice Темрява goto:Answer_wrong
+

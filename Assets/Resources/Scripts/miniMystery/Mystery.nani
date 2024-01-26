@@ -1,0 +1,10 @@
+Yalo: What always grows but never blossoms?
+
+@choice Delight goto:Answer_wrong
+@choice Time goto:Answer_right
+@choice Darkness goto:Answer_wrong
+
+@stop
+
+
+

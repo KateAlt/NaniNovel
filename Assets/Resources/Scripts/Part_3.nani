@@ -1,0 +1,17 @@
+@back LongLand.RadialBlur
+
+@char Yalo
+@char Olay look:left
+
+
+
+Yalo: Wow your trophy looks great. Maybe you can give it to me.
+Olay: No, why does it have to happen like this? Give it to me !
+Yalo: So what have you decided to whom you will give the trophy?
+
+@choice Olay goto:Part_4_Olay
+@choice Yalo goto:Part_4_Yalo
+@choice yourself goto:Part_4_yourself
+
+
+@stop

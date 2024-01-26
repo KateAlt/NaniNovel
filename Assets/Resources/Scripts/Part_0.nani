@@ -1,0 +1,21 @@
+@back SecretPlace.RadialBlur
+@spawn Rain wait:false
+@bgm forest_sound
+@char Olay
+
+Hi my sweetie !!!
+Olay: My name is Olay.
+Olay: Tell me your name, please!
+
+@input PlayerName summary:"Yours name."
+@stop
+
+Olay: Greetings, {PlayerName}!
+Olay: I need your help {PlayerName}. If you're ready, head to MagicalTown and meet Yalo. You will take this task ?
+
+@choice Agree goto:Part_1
+@choice Decline goto:Part_1
+
+
+@hide Olay
+@stop

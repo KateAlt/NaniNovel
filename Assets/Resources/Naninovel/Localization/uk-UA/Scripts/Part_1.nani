@@ -1,0 +1,7 @@
+; English <en> to Ukrainian (Ukraine) <uk-UA> localization document for `Part_1` naninovel script
+
+# 7b57a5c0
+; Яло: {PlayerName}, ти прийшов допомагати? У мене є нове завдання для тебе. Проте перед цим, спробуй гру, яка допоможе тобі підготуватися до майбутніх викликів.
+
+# 5cfb2887
+; @choice Розпочати міні-гру goto:Mystery

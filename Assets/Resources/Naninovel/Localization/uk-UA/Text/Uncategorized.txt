@@ -1,0 +1,3 @@
+; English <en> to Ukrainian (Ukraine) <uk-UA> localization document for `Uncategorized` managed text document
+
+StartDemo: START DEMO

@@ -1,0 +1,9 @@
+@back MagicalTown.RadialBlur
+@char Yalo
+
+Yalo: {PlayerName}, did you come to help? I have a new task for you. However, before that, try a game that will help you prepare for future challenges.
+
+@choice Start mini game goto:Mystery
+@hide Yalo
+
+@stop

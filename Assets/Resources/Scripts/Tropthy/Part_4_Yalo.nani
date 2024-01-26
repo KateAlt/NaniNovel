@@ -1,0 +1,9 @@
+@back MagicalTown.RadialBlur
+@hide Olay
+
+Yalo: Oh you're so cute. Thank you !
+Olay: You're just disgusting and greedy.
+
+@goto Final
+
+@stop

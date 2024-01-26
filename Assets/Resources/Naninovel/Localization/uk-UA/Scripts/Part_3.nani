@@ -1,0 +1,20 @@
+; English <en> to Ukrainian (Ukraine) <uk-UA> localization document for `Part_3` naninovel script
+
+# eb176862
+; Яло: Вау, твій трофей виглядає чудово. Можливо, ти можеш віддати його мені.
+
+# 164dcbaa
+; Олей: Ні, чому це має статися саме так? Віддай його мені!
+
+# 79a41226
+; Яло: Так що ти вирішив, кому ти віддаш трофей?
+
+# c4a2eca
+; @choice Олей goto:Part_4_Olay
+
+# b073e19c
+; @choice Яло goto:Part_4_Yalo
+
+# 6095ff6e
+; @choice Себе goto:Part_4_yourself
+

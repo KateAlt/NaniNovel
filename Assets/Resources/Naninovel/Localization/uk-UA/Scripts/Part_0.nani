@@ -1,0 +1,25 @@
+; English <en> to Ukrainian (Ukraine) <uk-UA> localization document for `Part_0` naninovel script
+
+# a6fc24fd
+; Привіт, мой милий !!!
+
+# db4d5ac8
+; Олей: Мене звуть Олей.
+
+# 6ccf5258
+; Олей: Скажи мені своє ім'я, будь ласка!
+
+# 817b29fe
+; @input PlayerName summary:"Твоє ім'я."
+
+# 428ed818
+; Олей: Вітаю, {PlayerName}!
+
+# 45074ded
+; Олей: Мені потрібна твоя допомога, {PlayerName}. Якщо ти готовий, направляйся до Магічного Містечка і зустрічайся з Яло. Ти візьмеш це завдання?
+
+# acf01594
+; @choice Згоден goto:Part_1
+
+# d80062f1
+; @choice Відмовитися goto:Part_1

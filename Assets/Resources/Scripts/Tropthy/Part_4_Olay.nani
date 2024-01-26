@@ -1,0 +1,9 @@
+@back SecretPlace.RadialBlur
+@hide Olay
+
+Olay: Oh you're so cute. Thank you !
+Yalo: You're just disgusting and greedy.
+
+@goto Final
+
+@stop

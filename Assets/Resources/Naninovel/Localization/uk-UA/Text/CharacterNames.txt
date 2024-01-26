@@ -1,0 +1,6 @@
+; English <en> to Ukrainian (Ukraine) <uk-UA> localization document for `CharacterNames` managed text document
+
+b: b
+k: Kohaku
+n: Nani-kun
+John: John

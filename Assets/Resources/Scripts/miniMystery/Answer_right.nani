@@ -1,0 +1,9 @@
+@char Yalo
+
+Yalo: {PlayerName}, it was right.
+
+Yalo: You got the trophy. 
+
+@goto Part_3
+@hide Yalo
+@stop

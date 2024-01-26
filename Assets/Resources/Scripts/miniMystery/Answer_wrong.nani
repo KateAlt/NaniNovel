@@ -1,0 +1,9 @@
+@char Yalo
+
+Yalo: {PlayerName}, it was wrong.
+
+Yalo: But you still got the trophy.
+
+@goto Part_3
+@hide Yalo
+@stop
