@@ -1,4 +1,4 @@
-built application on google drive: https://drive.google.com/drive/folders/1v7cGOkVdO4_ej20ziYys0YVeWwhK3KsS?usp=sharing
+built application and video on google drive: https://drive.google.com/drive/folders/1v7cGOkVdO4_ej20ziYys0YVeWwhK3KsS?usp=sharing
 
 
 
